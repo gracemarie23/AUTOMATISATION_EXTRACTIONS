@@ -66,11 +66,31 @@ chercher_champs_2.clear()
 chercher_champs_2.send_keys(mdp_1)
 chercher_champs_2.send_keys(Keys.ENTER)
 
-time.sleep(10)
+time.sleep(7)
+
+time.sleep(7)
+
+
+id_1 = id_1.strip().strip('"').strip("'") if id_1 else ""
 
 chercher_champs_3 = navigateur.find_element(By.ID,"f1_4")
-chercher_champs_3.clear()
-chercher_champs_3.send_keys(id_1)
+
+navigateur.execute_script("arguments[0].value = '';", chercher_champs_3)
+time.sleep(0.5)
+navigateur.execute_script("arguments[0].focus();", chercher_champs_3)
+time.sleep(0.5)
+navigateur.execute_script(f"arguments[0].value = '{id_1}';", chercher_champs_3)
+time.sleep(0.5)
+navigateur.execute_script("""
+    var element = arguments[0];
+    element.dispatchEvent(new Event('input', { bubbles: true }));
+    element.dispatchEvent(new Event('change', { bubbles: true }));
+    element.dispatchEvent(new KeyboardEvent('keyup', { bubbles: true }));
+""", chercher_champs_3)
+
+time.sleep(2)
+
+
 navigateur.find_element(By.ID,"1_btn").click()
 
 time.sleep(5)

@@ -1,0 +1,172 @@
+
+if tab[0]=="sfl3_1" :
+    
+    navigateur.find_element(By.ID,tab[0]).click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"8_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"13_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"14_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"16_btn").click()
+    time.sleep(5)
+    
+
+if tab[1]=="sfl3_2" :
+    
+    navigateur.find_element(By.ID,tab[1]).click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"20_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"25_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"26_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"28_btn").click()
+    time.sleep(5)
+
+
+if tab[2]=="sfl3_3" :
+    
+    navigateur.find_element(By.ID,tab[2]).click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"32_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"37_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"38_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"40_btn").click()
+    time.sleep(5)
+
+
+if tab[3]=="sfl3_4" :
+    
+    navigateur.find_element(By.ID,tab[3]).click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"44_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"49_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"50_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"52_btn").click()
+    time.sleep(5)
+
+
+if tab[4]=="sfl3_5" :
+    
+    navigateur.find_element(By.ID,tab[4]).click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"56_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"61_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"62_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"64_btn").click()
+    time.sleep(5)
+    
+if tab[5]=="sfl3_6" :
+    
+    navigateur.find_element(By.ID,tab[5]).click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"68_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"73_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"74_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.XPATH, "//button[text()='Sélection d'un autre fournisseur.']")
+    time.sleep(5)
+    
+if tab[6]=="sfl3_7" :
+    
+    navigateur.find_element(By.ID,tab[6]).click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"80_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"85_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"86_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"88_btn").click()
+    time.sleep(5)
+    
+    
+if tab[7]=="sfl3_8" :
+    
+    navigateur.find_element(By.ID,tab[7]).click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"89_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"93_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"94_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"96_btn").click()
+    time.sleep(5)
+    
+    
+if tab[8]=="sfl3_9" :
+    
+    navigateur.find_element(By.ID,tab[8]).click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"100_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"104_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"105_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"107_btn").click()
+    time.sleep(5)
+    
+if tab[9]=="sfl3_10" :
+    
+    navigateur.find_element(By.ID,tab[9]).click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"111_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"115_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"116_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"118_btn").click()
+    time.sleep(5)
+    
+if tab[10]=="sfl3_11" :
+    
+    navigateur.find_element(By.ID,tab[10]).click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"122_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"126_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"127_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"129_btn").click()
+    time.sleep(5)
+
+if tab[11]=="sfl3_12" :
+    
+    navigateur.find_element(By.ID,tab[11]).click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"133_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"137_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"138_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"140_btn").click()
+    time.sleep(5)
+
+if tab[12]=="sfl3_13" :
+    
+    navigateur.find_element(By.ID,tab[12]).click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"144_btn").click()
+    time.sleep(5)
+    navigateur.find_element(By.ID,"148_btn").click()
+    time.sleep(5)
+    
