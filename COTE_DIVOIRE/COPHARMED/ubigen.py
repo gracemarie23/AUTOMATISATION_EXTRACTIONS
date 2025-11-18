@@ -14,7 +14,7 @@ import shutil
 from datetime import datetime
 load_dotenv()
 
-PAYS = "Cote_d_Ivoire"
+PAYS = "COTE_DIVOIRE"
 MOIS = datetime.now().strftime("%Y-%m")  
 GROSSISTE = "COPHARMED"
 LABORATOIRE = "UBIGEN"  

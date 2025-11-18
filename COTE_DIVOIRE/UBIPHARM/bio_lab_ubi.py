@@ -15,12 +15,10 @@ from datetime import datetime
 
 load_dotenv()
 
-
-
-PAYS = "Cote_d_Ivoire"
+PAYS = "COTE_DIVOIRE"
 MOIS = datetime.now().strftime("%Y-%m")  
 GROSSISTE = "UBIPHARM"
-LABORATOIRE = "BIOFAR_LABELL_UBIGENE"  
+LABORATOIRE = "BIOFAR_LABELL_UBIGEN"  
 
 
 base_path = "C:\\Users\\Utilisateur\\Desktop\\AUTOMATISATION_EXTRACTIONS\\DONNEES"

@@ -17,7 +17,7 @@ load_dotenv()
 PAYS = "SENEGAL"
 MOIS = datetime.now().strftime("%Y-%m")  
 GROSSISTE = "LABOREX"
-LABORATOIRE = "LABELL_UBIGENE"  
+LABORATOIRE = "LABELL_UBIGEN"  
 
 
 base_path = "C:\\Users\\Utilisateur\\Desktop\\AUTOMATISATION_EXTRACTIONS\\DONNEES"

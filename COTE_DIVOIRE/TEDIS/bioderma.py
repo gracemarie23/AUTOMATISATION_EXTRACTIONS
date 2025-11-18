@@ -13,7 +13,7 @@ import glob
 import shutil
 from datetime import datetime
 load_dotenv()
-PAYS = "Cote_d_Ivoire"
+PAYS = "COTE_DIVOIRE"
 MOIS = datetime.now().strftime("%Y-%m")  
 GROSSISTE = "TEDIS"
 LABORATOIRE = "BIODERMA"  
@@ -67,8 +67,9 @@ chercher_champs_2.send_keys(Keys.ENTER)
 
 time.sleep(15)
 navigateur.find_element(By.ID,"btnExportCsv").click()
-time.sleep(15)
+time.sleep(10)
 
+navigateur.quit()
 
 time.sleep(5)
 
