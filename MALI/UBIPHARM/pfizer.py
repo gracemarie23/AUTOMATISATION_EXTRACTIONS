@@ -19,7 +19,7 @@ load_dotenv()
 PAYS = "MALI"
 MOIS = datetime.now().strftime("%Y-%m")  
 GROSSISTE = "UBIPHARM"
-LABORATOIRE = "BIOFAR_LABELL_UBIGEN"  
+LABORATOIRE = "PFIZER"  
 
 base_path = "C:\\Users\\Utilisateur\\Desktop\\AUTOMATISATION_EXTRACTIONS\\DONNEES"
 dossier_final = os.path.join(base_path, PAYS, MOIS, GROSSISTE, LABORATOIRE)

@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+        <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+                  xmlns:o="urn:schemas-microsoft-com:office:office"
+                  xmlns:x="urn:schemas-microsoft-com:office:excel"
+                  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+                  xmlns:html="http://www.w3.org/TR/REC-html40">
+            <Worksheet ss:Name="Produits">
+                <Table>
+                    <Row>
+                        <Cell><Data ss:Type="String">Nom</Data></Cell>
+                        <Cell><Data ss:Type="String">Quantité disponible</Data></Cell>
+                        <Cell><Data ss:Type="String">Le mois actuel</Data></Cell>
+                        <Cell><Data ss:Type="String">Octobre</Data></Cell>
+                        <Cell><Data ss:Type="String">Septembre</Data></Cell>
+                        <Cell><Data ss:Type="String">Août</Data></Cell>
+                        <Cell><Data ss:Type="String">Laboratoire</Data></Cell>
+                    </Row>
+                    
+            <Row>
+                <Cell><Data ss:Type="String">CALCIUM+MAG BIOFAR CPR EFFV/20</Data></Cell>
+                <Cell><Data ss:Type="Number">318.0</Data></Cell>
+                <Cell><Data ss:Type="Number">45.0</Data></Cell>
+                <Cell><Data ss:Type="Number">116.0</Data></Cell>
+                <Cell><Data ss:Type="Number">43.0</Data></Cell>
+                <Cell><Data ss:Type="Number">43.0</Data></Cell>
+                <Cell><Data ss:Type="String">BIOFAR</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">CALCIUM VIT D3 BIOFAR CPR EFFV T/20</Data></Cell>
+                <Cell><Data ss:Type="Number">99.0</Data></Cell>
+                <Cell><Data ss:Type="Number">11.0</Data></Cell>
+                <Cell><Data ss:Type="Number">29.0</Data></Cell>
+                <Cell><Data ss:Type="Number">20.0</Data></Cell>
+                <Cell><Data ss:Type="Number">1.0</Data></Cell>
+                <Cell><Data ss:Type="String">BIOFAR</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">COMPLEX VIT B BIOFAR CPR EFFV T/20</Data></Cell>
+                <Cell><Data ss:Type="Number">52.0</Data></Cell>
+                <Cell><Data ss:Type="Number">26.0</Data></Cell>
+                <Cell><Data ss:Type="Number">55.0</Data></Cell>
+                <Cell><Data ss:Type="Number">46.0</Data></Cell>
+                <Cell><Data ss:Type="Number">13.0</Data></Cell>
+                <Cell><Data ss:Type="String">BIOFAR</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">FER+AC FOLIQ BIOFAR CPR EFFV20</Data></Cell>
+                <Cell><Data ss:Type="Number">48.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">BIOFAR</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">MAGNESIUM VIT B6 BIOFAR CPR EFFV T/20</Data></Cell>
+                <Cell><Data ss:Type="Number">57.0</Data></Cell>
+                <Cell><Data ss:Type="Number">24.0</Data></Cell>
+                <Cell><Data ss:Type="Number">55.0</Data></Cell>
+                <Cell><Data ss:Type="Number">30.0</Data></Cell>
+                <Cell><Data ss:Type="Number">5.0</Data></Cell>
+                <Cell><Data ss:Type="String">BIOFAR</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">MULTIVIT 12 MINRX BIOFAR CPR EFFV T/20</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">2.0</Data></Cell>
+                <Cell><Data ss:Type="Number">68.0</Data></Cell>
+                <Cell><Data ss:Type="Number">62.0</Data></Cell>
+                <Cell><Data ss:Type="String">BIOFAR</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">MULTIVIT KIDS BIOFAR CPR EFFV T/20</Data></Cell>
+                <Cell><Data ss:Type="Number">62.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">4.0</Data></Cell>
+                <Cell><Data ss:Type="Number">20.0</Data></Cell>
+                <Cell><Data ss:Type="Number">2.0</Data></Cell>
+                <Cell><Data ss:Type="String">BIOFAR</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">MULTIVIT BIOFAR CPR EFFV T/20</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">BIOFAR</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">POTA+MAG BIOFAR CPR EFFV T/20</Data></Cell>
+                <Cell><Data ss:Type="Number">22.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">1.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">BIOFAR</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">VIT ACE SE ZN BIOFAR CPR EFF20</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">BIOFAR</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">VIT C ACEROLA BIOFAR 500MG CPR EFFV T/20</Data></Cell>
+                <Cell><Data ss:Type="Number">28.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">1.0</Data></Cell>
+                <Cell><Data ss:Type="Number">9.0</Data></Cell>
+                <Cell><Data ss:Type="Number">2.0</Data></Cell>
+                <Cell><Data ss:Type="String">BIOFAR</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">VIT C1000 BIOFAR CPR EFFV T/20</Data></Cell>
+                <Cell><Data ss:Type="Number">230.0</Data></Cell>
+                <Cell><Data ss:Type="Number">2.0</Data></Cell>
+                <Cell><Data ss:Type="Number">37.0</Data></Cell>
+                <Cell><Data ss:Type="Number">40.0</Data></Cell>
+                <Cell><Data ss:Type="Number">13.0</Data></Cell>
+                <Cell><Data ss:Type="String">BIOFAR</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">ZINC VIT C BIOFAR CPR EFFV T/20</Data></Cell>
+                <Cell><Data ss:Type="Number">24.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">6.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">BIOFAR</Data></Cell>
+            </Row>
+            
+                </Table>
+            </Worksheet>
+        </Workbook>

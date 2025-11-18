@@ -50,10 +50,10 @@ service = Service("C:/Users/Utilisateur/Desktop/AUTOMATISATION_EXTRACTIONS/gecko
 navigateur = webdriver.Firefox(service=service, options=firefox_options)
 navigateur.maximize_window()
 
-navigateur.get("https://fournisseur-cameroun.ubipharm.com/")
+navigateur.get("https://fournisseur-mali.ubipharm.com/")
 
-user_1 = os.getenv('user_mali_ubi_bio_lab_ubi')
-mdp_1  = os.getenv('mdp_mali_ubi_bio_lab_ubi')
+user_1 = os.getenv('user_mali_ubi_lab_ubi')
+mdp_1  = os.getenv('mdp_mali_ubi_lab_ubi')
 
 time.sleep(3)
 

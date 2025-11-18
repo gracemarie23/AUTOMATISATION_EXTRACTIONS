@@ -16,7 +16,7 @@ load_dotenv()
 PAYS = "MALI"
 MOIS = datetime.now().strftime("%Y-%m")  
 GROSSISTE = "TEDIS"
-LABORATOIRE = "BIOFAR"  
+LABORATOIRE = "UBIGEN"  
 
 
 base_path = "C:\\Users\\Utilisateur\\Desktop\\AUTOMATISATION_EXTRACTIONS\\DONNEES"

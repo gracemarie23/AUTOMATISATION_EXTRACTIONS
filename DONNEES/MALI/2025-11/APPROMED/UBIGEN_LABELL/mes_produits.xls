@@ -1,0 +1,301 @@
+<?xml version="1.0"?>
+        <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+                  xmlns:o="urn:schemas-microsoft-com:office:office"
+                  xmlns:x="urn:schemas-microsoft-com:office:excel"
+                  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+                  xmlns:html="http://www.w3.org/TR/REC-html40">
+            <Worksheet ss:Name="Produits">
+                <Table>
+                    <Row>
+                        <Cell><Data ss:Type="String">Nom</Data></Cell>
+                        <Cell><Data ss:Type="String">Quantité disponible</Data></Cell>
+                        <Cell><Data ss:Type="String">Le mois actuel</Data></Cell>
+                        <Cell><Data ss:Type="String">Octobre</Data></Cell>
+                        <Cell><Data ss:Type="String">Septembre</Data></Cell>
+                        <Cell><Data ss:Type="String">Août</Data></Cell>
+                        <Cell><Data ss:Type="String">Laboratoire</Data></Cell>
+                    </Row>
+                    
+            <Row>
+                <Cell><Data ss:Type="String">ALBENDAZOLE UBI 400MG CPR 50BL1</Data></Cell>
+                <Cell><Data ss:Type="Number">419.0</Data></Cell>
+                <Cell><Data ss:Type="Number">42.0</Data></Cell>
+                <Cell><Data ss:Type="Number">12.0</Data></Cell>
+                <Cell><Data ss:Type="Number">18.0</Data></Cell>
+                <Cell><Data ss:Type="Number">14.0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">AMOXICILLINE UBI 500MG GEL 10 BL 12</Data></Cell>
+                <Cell><Data ss:Type="Number">514.0</Data></Cell>
+                <Cell><Data ss:Type="Number">180.0</Data></Cell>
+                <Cell><Data ss:Type="Number">122.0</Data></Cell>
+                <Cell><Data ss:Type="Number">336.0</Data></Cell>
+                <Cell><Data ss:Type="Number">105.0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">AMOXICILLINE UBI 125MG PDRE SUSP F/60ML</Data></Cell>
+                <Cell><Data ss:Type="Number">53.0</Data></Cell>
+                <Cell><Data ss:Type="Number">15.0</Data></Cell>
+                <Cell><Data ss:Type="Number">107.0</Data></Cell>
+                <Cell><Data ss:Type="Number">110.0</Data></Cell>
+                <Cell><Data ss:Type="Number">60.0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">AMOXICILLIN UBI 250MG/5ML PDR SUSP F60ML</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">201.0</Data></Cell>
+                <Cell><Data ss:Type="Number">92.0</Data></Cell>
+                <Cell><Data ss:Type="Number">23.0</Data></Cell>
+                <Cell><Data ss:Type="Number">5.0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">ARTEMETHER UBI 80MG AMP INJ B/10</Data></Cell>
+                <Cell><Data ss:Type="Number">25.0</Data></Cell>
+                <Cell><Data ss:Type="Number">1.0</Data></Cell>
+                <Cell><Data ss:Type="Number">64.0</Data></Cell>
+                <Cell><Data ss:Type="Number">1.0</Data></Cell>
+                <Cell><Data ss:Type="Number">4.0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">ARTEMETHER UBI 40MG IM AMP INJ B/10</Data></Cell>
+                <Cell><Data ss:Type="Number">70.0</Data></Cell>
+                <Cell><Data ss:Type="Number">1.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">8.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">BANDE CREPE LABELL CELLO 4MX5CM</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">BANDE CREP LABELL CELLO 4MX10</Data></Cell>
+                <Cell><Data ss:Type="Number">26.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">30.0</Data></Cell>
+                <Cell><Data ss:Type="Number">4.0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">BANDE CREPE LABELL CELLO 4MX15</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">50.0</Data></Cell>
+                <Cell><Data ss:Type="Number">10.0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">BANDE CREPE LABELL ETUI 4MX5</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">BANDE CREPE LABELL ETUI 4MX7</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">BANDE CREPE LABELL ETUI 4MX10</Data></Cell>
+                <Cell><Data ss:Type="Number">90.0</Data></Cell>
+                <Cell><Data ss:Type="Number">50.0</Data></Cell>
+                <Cell><Data ss:Type="Number">20.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">55.0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">BANDE CREPE LABELL CELLO 4MX20</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">BANDE CREPE LABELL ETUI 4MX20</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">48.0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">CIPROFLOXACINE UBI 750MG COMP B/10X10</Data></Cell>
+                <Cell><Data ss:Type="Number">2.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">1.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">COMPRESS STERILE LABELL 30X30/10</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">COTRIMOXAZOLE FORT UBI 960MG CPR 10BL10</Data></Cell>
+                <Cell><Data ss:Type="Number">78.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">2.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">COTRIMOXAZOLE 480MG CP, B/10PL*10</Data></Cell>
+                <Cell><Data ss:Type="Number">119.0</Data></Cell>
+                <Cell><Data ss:Type="Number">4.0</Data></Cell>
+                <Cell><Data ss:Type="Number">27.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">32.0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">COTRIMOXAZOLE 240MG/5ML SP, 100ML</Data></Cell>
+                <Cell><Data ss:Type="Number">266.0</Data></Cell>
+                <Cell><Data ss:Type="Number">25.0</Data></Cell>
+                <Cell><Data ss:Type="Number">55.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">IBUPROFENE UBI 400MG CPR 10 BL 10</Data></Cell>
+                <Cell><Data ss:Type="Number">363.0</Data></Cell>
+                <Cell><Data ss:Type="Number">4.0</Data></Cell>
+                <Cell><Data ss:Type="Number">39.0</Data></Cell>
+                <Cell><Data ss:Type="Number">11.0</Data></Cell>
+                <Cell><Data ss:Type="Number">57.0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">MEBENDAZOLE UBI 100MG CPR 10 BL 6</Data></Cell>
+                <Cell><Data ss:Type="Number">31.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">2.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">MEBENDAZOLE UBI 100MG/5ML PDRE SUSP/30ML</Data></Cell>
+                <Cell><Data ss:Type="Number">57.0</Data></Cell>
+                <Cell><Data ss:Type="Number">20.0</Data></Cell>
+                <Cell><Data ss:Type="Number">13.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">METRONIDAZOLE UBI 250MG CPR 100 BL 10</Data></Cell>
+                <Cell><Data ss:Type="Number">14.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">6.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">4.0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">METRONIDAZOLE UBI 500MG SOL INJ F/100ML</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">METRONIDAZOL UBI 125MG/5ML PDR SUSP100ML</Data></Cell>
+                <Cell><Data ss:Type="Number">152.0</Data></Cell>
+                <Cell><Data ss:Type="Number">10.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">PARACETAMOL UBI 500MG CPR 100 BL 10</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">PARACETAMOL UBI 120MG/5ML PDRE SUSP/60ML</Data></Cell>
+                <Cell><Data ss:Type="Number">170.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+            <Row>
+                <Cell><Data ss:Type="String">TEST GROSSESSE UBI TEST BANDELETTES B/20</Data></Cell>
+                <Cell><Data ss:Type="Number">6.0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="Number">0</Data></Cell>
+                <Cell><Data ss:Type="String">PROMONOVA</Data></Cell>
+            </Row>
+            
+                </Table>
+            </Worksheet>
+        </Workbook>
